@@ -3,7 +3,7 @@
 """
 import unittest
 
-from smartsquare.com import square
+from smartsquare.core import square
 
 class TestCore(unittest.TestCase):
     '''Unittest for core module'''
